@@ -1,0 +1,39 @@
+#supportHero {
+    background-color: #377ed1;
+    color: white;
+    padding-top: 100px; /* Adjusted for more space */
+    padding-bottom: 100px; /* Adjusted for more space */
+}
+
+#supportHero a {
+    color: white;
+    text-decoration: underline;
+    font-size: 0.95rem;
+}
+
+#supportWrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 20px; /* Optional: more inner space */
+    padding-bottom: 20px; /* Optional: more inner space */
+}
+
+#supportHero h2 {
+    font-weight: 500;
+}
+
+#supportHero input.form-control {
+    padding: 12px 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+}
+
+.link-group a {
+    margin-right: 20px;
+    white-space: nowrap;
+}
+
+ol {
+    padding-left: 20px;
+}
